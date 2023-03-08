@@ -16,7 +16,16 @@ const quotes = [
     "A martini. Shaken, not stirred",
     "That'll do, pig. That'll do.",
     "Where we're going we don't need roads",
-    "To infinity and beyond!"
+    "To infinity and beyond!",
+    "Are you not entertained?",
+    "THIS. IS. SPARTA.",
+    "Why so serious?",
+    "I love lamp",
+    "Stop trying to make fetch happen",
+    "Jagshemash!",
+    "Not quite my tempo",
+    "I drink your milkshake",
+    "With great power comes great responsibility"
 ]
 
 const authors = [
