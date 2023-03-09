@@ -1,3 +1,5 @@
 # Misattributed Quotes
 
-Simple js script for generating a quote and misattributing it.
+A simple js script for generating a quote and misattributing it in the style of this meme
+
+![meme](/meme.jpg)
