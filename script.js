@@ -3,13 +3,8 @@ const quotes = [
     "I am your father",
     "One small step for man. One giant leap for mankind",
     "Use the force",
-    "Do not pity the dead. Pity the living, and, above all those who live without love",
-    "Courage is found in unlikely places",
-    "Art is never finished, only abandoned",
-    "Peace comes from within. Do not seek it without",
-    "There was never a good war, or a bad peace",
+    "Do not pity the dead, Harry. Pity the living, and, above all those who live without love",
     "There is nothing to fear but fear itself",
-    "You're only as good as your last haircut",
     "I'll be back",
     "You're gonna need a bigger boat",
     "Here's looking at you, kid",
@@ -25,7 +20,9 @@ const quotes = [
     "Jagshemash!",
     "Not quite my tempo",
     "I drink your milkshake",
-    "With great power comes great responsibility"
+    "With great power comes great responsibility",
+    "May the odds be ever in your favour",
+    "There's a snake in my boot"
 ]
 
 const authors = [
@@ -40,7 +37,9 @@ const authors = [
     "Karl Marx",
     "Socrates",
     "Oprah Winfrey",
-    "Leonardo Da Vinci"
+    "Leonardo Da Vinci",
+    "Voldemort",
+    "Darth Vader"
 ]
 
 const qualifiers = [
@@ -49,7 +48,8 @@ const qualifiers = [
     "it's been said",
     "maybe",
     "perhaps",
-    "possibly"
+    "possibly",
+    "rumour has it",
 ]
 
 const randomNum = arr => Math.floor(Math.random() * arr.length)
